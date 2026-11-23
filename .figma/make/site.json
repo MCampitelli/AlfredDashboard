@@ -1,0 +1,12 @@
+{
+  "title": "Alfred BI - Bugs encerrados",
+  "language": "pt-BR",
+  "description": "Analise bugs encerrados com métricas de lead time, gargalos por fase e retrabalho, filtrando por cliente, módulo e versão para orientar equipes de produto e suporte.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
